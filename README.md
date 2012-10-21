@@ -3,7 +3,7 @@ At <a href="http://uxweek.com/2012" title="Visit conference website" target="_bl
 
 In the workshop we asked user experience practioners to help us improve the Adopt-a-Hydrant application. Specifically we asked the group to think about new ways we could attract people to adopt hydrants and to keep them interested and involved over time.
 
-This site contains ideas and photos from that session. Although our focus was on Adopt-a-Hydrant, we think the ideas are applicable to other Adopta programs (i.e., streams, sirens, sidewalks, etc). We hope you find it useful as you start and grow your own Adopta program.
+The <a href="https://github.com/codeforamerica/adopta-campaign-ideas/wiki">Adopta Campaign Ideas wiki</a> contains ideas and photos from that session. Although our focus was on Adopt-a-Hydrant, we think the ideas are applicable to other Adopta programs (i.e., streams, sirens, sidewalks, etc). We hope you find it useful as you start and grow your own Adopta program.
 
 If you have any questions or feedback about this content, please contact <a href="mailto:liz@codeforamerica.org">Elizabeth Hunt</a> or <a href="mailto:liz@codeforamerica.org">Lauren Dyson</a>.
 
